@@ -1,0 +1,14 @@
+{
+    "name": "react-boilerplate-kit",
+    "version": "0.0.1",
+    "description": "",
+    "author": "Thammarong Glomjai",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "npm": ">=3"
+    }
+}
